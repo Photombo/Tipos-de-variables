@@ -1,0 +1,4 @@
+Tipos-de-variables
+==================
+
+//IMPORTS  //DECLARACIONES // VARIABLES var uno:String ="ROAD890401F10"; trace(uno);  var dos:String ="Eduardo Roberto Macías Rivera"; trace(dos);  var tres:Number = 57; trace(tres);  var cuatro:Number = 3.1416; trace(cuatro);  var cinco:String = "19.5" + "%"; trace(cinco);  var seis:Number = -16.647; trace(seis);  var siete:String = 1 + "'" + 954.98; trace(siete);  var ocho:String = 960 + "px"; trace(ocho);  var nueve:String = "Falso"; trace(nueve);  var diez:Number = 0445513265593; trace(diez);  var once:String = 955 + "WLF"; trace(once);  var doce:String = "+" + "Rh"; trace(doce);  var trece:String = 168 + "." + 192 + "." + 0 + "." + 1; trace(trece);   
